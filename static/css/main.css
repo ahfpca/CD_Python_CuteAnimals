@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.content {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin: 20px;
+}
